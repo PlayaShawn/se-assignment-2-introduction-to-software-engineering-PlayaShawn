@@ -45,7 +45,7 @@ Compare and contrast the Agile and Waterfall models of software development. Wha
       Waterfall model- This is a sequential approach to software development focusing on distict phases in a specific order.
 
 
-  COMPARISON AGILE VS WATERFALL 
+     COMPARISON AGILE VS WATERFALL 
       ASPECT	               Agile Model	               VS                    Waterfall Model
      Approach	          Iterative and incremental	                     Linear and sequential
      Flexibility	      Can highly adapt to changes	                   Difficult to adapt to change once started
@@ -55,7 +55,7 @@ Compare and contrast the Agile and Waterfall models of software development. Wha
      Change Management	Easily accommodates changes	                   Changes are difficult and costly
      Delivery	          Frequent small releases of working software	   One final product at the end
 
-   USAGE SCENARIOS
+    USAGE SCENARIOS
      Agile is suitable for projects with dynamic requirements, where customer needs may evolve, and rapid delivery of functional software is important. Ideal for environments that support high collaboration and flexibility.
 
      Waterfall is best for projects with well-defined, stable requirements. Suitable for projects where changes are unlikely and where comprehensive documentation is essential.
